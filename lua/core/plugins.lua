@@ -5,6 +5,7 @@ return require('packer').startup(function()
 
     use 'ellisonleao/gruvbox.nvim'
 
+    use 'xiyaowong/nvim-transparent'
     use 'neovim/nvim-lspconfig'
     use 'nvim-lua/plenary.nvim'
     use 'j-hui/fidget.nvim'

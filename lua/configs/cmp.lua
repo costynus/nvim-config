@@ -1,4 +1,4 @@
-local servers = { 'pyright', 'rust_analyzer' }
+local servers = { 'pyright', 'rust_analyzer', 'gopls' }
 
 local luasnip = require 'luasnip'
 local async = require "plenary.async"
